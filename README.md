@@ -1,6 +1,6 @@
 # 👋 Merhaba, ben Recep Beydüz | NOVARİXİON
 
-🎯 **Bilgisayar Mühendisliği öğrencisiyim**.  
+🎯 **Yazılım Mühendisliği öğrencisiyim**.  
 C# üzerine ilerliyorum ve Unity ile oyun geliştirme alanında kendimi geliştiriyorum.  
 Azimli, meraklı ve pes etmeyen biriyim. Şu anda C#, Java, HTML, CSS ve MySQL ile projeler yapıyor ve yeni şeyler öğreniyorum.
 
