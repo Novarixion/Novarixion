@@ -1,35 +1,62 @@
-# 👋 Merhaba, ben Recep Beydüz | NOVARİXİON
+# 👋 Merhaba, ben Recep Beydüz
 
-🎯 **Yazılım Mühendisliği öğrencisiyim.**  
-C# üzerine ilerliyor ve **Unity ile oyun geliştirme** alanında kendimi geliştiriyorum.  
-Azimli, meraklı ve pes etmeyen biriyim. Şu anda **C#, Java, HTML, CSS ve MySQL** ile projeler yapıyor, yeni teknolojiler öğrenmeye devam ediyorum.
+### 🎮 Software Engineering Student | Unity Game Developer
 
----
+Yazılım Mühendisliği öğrencisiyim. C# ve Unity üzerine yoğunlaşıyor, oyun geliştirme alanında kendimi geliştiriyorum.
 
-## 🧩 Kullandığım / Öğrendiğim Teknolojiler
-- 🎮 **C# (Unity)** – Oyun geliştirme üzerine yoğunlaşıyorum.  
-- ☕ **Java** – Üniversite dersleri kapsamında projeler geliştiriyorum.  
-- 🌐 **HTML / CSS** – Web sayfaları tasarlıyor ve temel front-end bilgimi geliştiriyorum.  
-- 💾 **MySQL** – Veri tabanı yönetimi ve veri işlemede kullanıyorum.  
-- 🎨 **Canva** – Afiş, düğün davetiyesi, video sunum ve çeşitli tasarımlar hazırladım.   
-- 🧱 **Blender (Temel Düzey)** – 3D modelleme ve animasyon konularında öğrenme sürecindeyim.
+Oyun mekaniği geliştirmek, sistem tasarlamak ve fikirlerimi oynanabilir projelere dönüştürmekle ilgileniyorum. Öğrenmeye, üretmeye ve kendimi geliştirmeye devam ediyorum.
 
 ---
 
-## 💬 Sözler / Düşünceler
-> “Biliyorsan konuş faydalansınlar.  
->  Bilmiyorsan sus, insan sansınlar.”
+## 🛠️ Teknolojiler & Araçlar
+
+### 💻 Programming
+- **C#** — Unity oyun geliştirme, gameplay sistemleri
+- **Java** — Nesne yönelimli programlama ve üniversite projeleri
+- **Python** — Temel programlama
+- **SQL / MySQL** — Veritabanı işlemleri
+
+### 🎮 Game Development
+- **Unity** — Gameplay mechanics, physics, UI, scene management
+- **Blender** — 3D modelleme ve temel animasyon
+- **Git & GitHub** — Versiyon kontrolü
+
+### 🌐 Other Technologies
+- HTML
+- CSS
 
 ---
 
-## 📫 Bana Ulaşın
-- 📧 **E-posta:** [recepbeyduz65@gmail.com](mailto:recepbeyduz65@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/recep-beydüz-21760b341](https://www.linkedin.com/in/recep-beydüz-21760b341/)
+## 🚀 Projects
+
+### 🎮 Unity Game Projects
+Oyun geliştirme sürecinde üzerinde çalıştığım projeler, oyun mekanikleri ve denemeler.
+
+> Buraya projelerinin ekran görüntülerini, GitHub bağlantılarını ve kısa açıklamalarını ekle.
+
+### 🏃 Endless Runner
+Unity ile geliştirdiğim 3D endless runner oyunu. Karakter seçimi, şerit değiştirme, dinamik engeller ve skor sistemi gibi mekanikler içeriyor. Proje festival ortamında oyuncular tarafından deneyimlendi.
+
+### 🏰 Dungeon Game
+Unity ile geliştirdiğim fantastik dungeon temalı oyun. Atmosfer, karakter tasarımı, çevre tasarımı, oyun mekanikleri ve sistem geliştirme üzerine çalışıyorum.
 
 ---
 
-⭐ Şu anda **C# ve Unity** üzerine odaklanıyor, oyun geliştirme alanında ilerlemeye devam ediyorum.  
-Aynı zamanda tasarım tarafında kendimi geliştiriyor, küçük çaplı projelerde aktif olarak yer alıyorum.
+## 📚 Currently Learning
+
+- Advanced Unity & C#
+- Game Architecture
+- Gameplay Programming
+- 3D Game Development
+- Blender
 
 ---
 
+## 📫 Contact
+
+- **LinkedIn:** [Profilim](https://linkedin.com/in/recep-beyduz-2176b341)
+- **Email:** recepbeyduz65@gmail.com
+
+---
+
+⭐ Oyun geliştirme yolculuğumda yeni şeyler öğreniyor, fikirlerimi projelere dönüştürüyor ve her projede bir önceki seviyemin üzerine çıkmaya çalışıyorum.
