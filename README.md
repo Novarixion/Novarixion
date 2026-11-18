@@ -32,8 +32,6 @@ Oyun mekaniği geliştirmek, sistem tasarlamak ve fikirlerimi oynanabilir projel
 ### 🎮 Unity Game Projects
 Oyun geliştirme sürecinde üzerinde çalıştığım projeler, oyun mekanikleri ve denemeler.
 
-> Buraya projelerinin ekran görüntülerini, GitHub bağlantılarını ve kısa açıklamalarını ekle.
-
 ### 🏃 Endless Runner
 Unity ile geliştirdiğim 3D endless runner oyunu. Karakter seçimi, şerit değiştirme, dinamik engeller ve skor sistemi gibi mekanikler içeriyor. Proje festival ortamında oyuncular tarafından deneyimlendi.
 
